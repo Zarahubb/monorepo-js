@@ -1,0 +1,10 @@
+start a working area (see also: git help tutorial)
+   clone     Clone a repository into a new directory
+   init      Create an empty Git repository or reinitialize an existing one
+    add       Add file contents to the indexstatus    Show the working tree status
+    pull      Fetch from and integrate with another repository or a local branch
+   push      Update remote refs along with associated objects
+   help 
+   branch    List, create, or delete branches
+   commit    Record changes to the repository
+   merge     Join two or more development histories together
